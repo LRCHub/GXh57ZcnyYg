@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "優しさの記憶",
+  "base_artist": "鹿乃",
+  "createdAt": "2026-02-06T10:00:15.019038Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "優しさの記憶",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/01_優しさの記憶_鹿乃.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "[Blue Archive] '優しさの記憶' / 'Memories of Kindness' - Blue Archive Ending Credit Video (Subtitled)",
+      "artist": "Salieri AS Beta",
+      "has_synced": true,
+      "path": "select/02_[Blue_Archive]_'優しさの記憶'___'Memories_of_Kindness'_-_Blue_Archive_Ending_Credit_Vi_Salieri_AS_Beta.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "優しさの記憶",
+      "artist": "鹿乃",
+      "has_synced": false,
+      "path": "select/pl_01_優しさの記憶_鹿乃.txt"
+    }
+  ]
+}
